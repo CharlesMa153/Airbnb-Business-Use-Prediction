@@ -1,0 +1,3 @@
+This project focuses on a predictive question: Can we predict whether an Airbnb listing is for business purposes (column name: biz) based on its features?
+
+The dataset will be divided into training and testing set, the training set will be used for regularization (LASSO - binomial) which is applied to select the predictors among 20 variables, and the testing set will be used to test the accuracy of correctly predicting Airbnb listings for business purposes. This question is significant as it not only helps hosts understand the target market for businesses in terms of Airbnb choices, but it also helps business travellers by filtering business-friendly Airbnb rentals based on features like price and location.
