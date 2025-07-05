@@ -1,4 +1,5 @@
-**Airbnb Business Use Prediction**
+# Airbnb Business Use Prediction
+
 Airbnb has become a dominant force in the short‐term rental market, offering travelers unique accommodation options that vary widely in price, location, property type, and host interaction. While it has historically catered to leisure travelers seeking authentic local experiences, Airbnb has also seen a rising number of business travelers, prompting listings to cater specifically to corporate needs—often emphasizing convenience, reliability, and proximity to key commercial areas. Recent studies have underscored these shifts: Jang et al. (2019) show that factors like location and smooth booking processes are critical to business guests, whereas Kirchner and Pohl (2024) highlight the increasing “professionalization” of Airbnb, with hosts operating multiple properties more like a formal business.
 
 Against this backdrop, our central research question is:
